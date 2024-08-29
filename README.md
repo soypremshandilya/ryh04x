@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryh04x?tab=repositories](https://github.com/ryh04x?tab=repositories)
 
-- 📝 I regularly write articles on [https://ryh04x.blogspot.com/](https://ryh04x.blogspot.com/)
+- 📝 I regularly write articles on [https://medium.com/@ryh04x/](https://medium.com/@ryh04x)
 
 - 📫 How to reach me **work4rhythm@gmail.com**
 
@@ -20,26 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCnYOx0jmT2w5pVluEtzyTww" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://discord.gg/PVnckpZzXG" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/ryh04x" target="blank"><img align="center"
+  <a href="https://instagram.com/rhythmxsec" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/Cyberzfascinate" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg"
-      alt="adampithewan" height="30" width="40" /></a>
  <a href="https://twitter.com/ryh04x" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-   <a href="https://www.twitch.tv/ryh04x" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitch.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-   <a href="https://www.patreon.com/ryh04x" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg"
       alt="adampithewan" height="30" width="40" /></a>
      <a href="https://www.linkedin.com/in/ryh04x" target="blank"><img align="center"
       src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
